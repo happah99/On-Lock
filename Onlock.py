@@ -34,8 +34,7 @@ def cell():
 
     if answer == "1":
         
-        #instantDeath()
-        hallway()
+        instantDeath()
 
     elif answer == "2":
         os.system("cls")
@@ -235,7 +234,7 @@ def left(visited):
                 print("\nInventory:", inventory)
                 print("\n")
 
-                input("1. Turn back fvghfgh:")
+                input("1. Turn back:")
 
                 hallway()
 
