@@ -235,7 +235,7 @@ def left(visited):
                 print("\nInventory:", inventory)
                 print("\n")
 
-                input("1. Turn back :")
+                input("1. Turn back fvghfgh:")
 
                 hallway()
 
